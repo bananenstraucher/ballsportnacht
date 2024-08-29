@@ -1,6 +1,6 @@
 body{
-    background: #112 url(https://bananenstraucher.github.io/ballsportnacht/background.jpg) center no-repeat;
-    background-size:  auto;
+    background: #112 url(/background.jpg) center no-repeat;
+    background-size:cover;
     margin: 0;
     padding: 0;
     padding-top: 10px;
