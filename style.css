@@ -1,7 +1,6 @@
 body{
-    background-image: url(/abstract-timekeeper.svg);
+  background: #112 url(/3910762.jpg) center no-repeat;
     background-size: cover;
-    background-position: center;
     margin: 0;
     padding: 0;
     padding-top: 10px;
@@ -27,6 +26,7 @@ details, p{
 
 summary{
     font-size: large;
+    color: #28C76F;
 }
 
 ::-webkit-scrollbar{
@@ -49,6 +49,10 @@ summary{
     padding-top: 5px;
     border-radius: 10px;
     margin-bottom: 10px;
+
+    background-image: linear-gradient(135deg, #FDEB71, #F8D800);
+
+    -webkit-text-fill-color: #28C76F;
 }
 
 .larger{
