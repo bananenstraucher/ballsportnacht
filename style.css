@@ -17,6 +17,7 @@ h1{
 h2{
     font-family: "Caveat Brush", cursive;
     font-weight: 400;
+    margin-bottom: 5px;
 }
 
 details, p{
@@ -27,6 +28,10 @@ details, p{
 summary{
     font-size: large;
     color: #28C76F;
+}
+
+a{
+  color: #00E0FF;
 }
 
 ::-webkit-scrollbar{
@@ -49,10 +54,9 @@ summary{
     padding-top: 5px;
     border-radius: 10px;
     margin-bottom: 10px;
-
     background-image: linear-gradient(135deg, #2b2b2b, #252525);
-
     color: #28C76F;
+    text-shadow:  0 6px 5px #000000;
 }
 
 .larger{
