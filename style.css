@@ -1,5 +1,5 @@
 body{
-  background: #112 url(/3910762.jpg) center no-repeat;
+    background: #112 url(/3910762.jpg) center no-repeat;
     background-size: cover;
     margin: 0;
     padding: 0;
@@ -52,7 +52,7 @@ summary{
 
     background-image: linear-gradient(135deg, #FDEB71, #F8D800);
 
-    -webkit-text-fill-color: #28C76F;
+    color: #28C76F;
 }
 
 .larger{
